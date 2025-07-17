@@ -10,9 +10,11 @@
 MSSQL Express 2022
 https://bigexecution.tistory.com/252 참고
 
-SQL Server Management Studio 21 : https://aka.ms/ssms/21/release/vs_SSMS.exe
+프로그램 설치 : SQL Server Management Studio 21 : https://aka.ms/ssms/21/release/vs_SSMS.exe
+CLI Windows(Preview) 설치 : https://github.com/dbcli/mssql-cli/blob/main/doc/installation/windows.md#windows-installation
 
 ### 쿼리
+SQL Server Management Studio 21를 열어서 
 
 ## 2. MYSQL
 MYSQL WorkBench : https://downloads.mysql.com/archives/installer/
