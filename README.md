@@ -30,6 +30,10 @@ DB Browser for Sqlite : https://sqlitebrowser.org/
 ---
 ## Tool
 1. MSSQL - SSMS(Sql Server Management Studio)
-2. MYSQL - Mysql Workbench
-3. MYSQL - Heidisql : SSH 연결에 유용
-4. 통합 - DBeaver : 여러 종류의 DB 연결
+[설치 링크](https://aka.ms/ssms/21/release/vs_SSMS.exe)
+2. MYSQL - Mysql Workbench 
+[설치 링크](https://dev.mysql.com/downloads/workbench/)
+3. MYSQL - Heidisql : SSH 연결에 유용 
+[설치 링크](https://www.heidisql.com/download.php)
+4. 통합 - DBeaver : 여러 종류의 DB 연결 
+[설치 링크](https://dbeaver.io/download/)
